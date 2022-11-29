@@ -1,1 +1,2 @@
-
+The folder "5_slice_dropout" contains a u-net model with dropouts that was trained using 5 layers per participant.
+The folder "data_augmentation_no_dropout" contains a u-net model that was trained using 1 layer per participant with data augmentation.
